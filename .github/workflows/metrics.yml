@@ -16,7 +16,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
-          user: erzz
+          user: RandomUsernameThatIsNotYetTaken
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Stockholm
